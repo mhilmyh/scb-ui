@@ -42,17 +42,17 @@ Sistem kami berbasis website di mana user terkait harus mendaftar akun terlebih 
 -   Request
 
 -   Submission
-    ![Activity Submission](./public/activity_diagram_submission.png)
+    ![Activity Submission](https://github.com/ditdittdittt/frontend-keuanganscb/blob/master/screenshoot/activity_diagram_submission.png)
 -   Petty Cash
-    ![Activity Petty Cash](./public/activity_diagram_petty_cash.png)
+    ![Activity Petty Cash](https://github.com/ditdittdittt/frontend-keuanganscb/blob/master/screenshoot/activity_diagram_petty_cash.png)
 
 ### Class Diagram
 
-![Class Diagram](./public/class_diagram.png)
+![Class Diagram](https://github.com/ditdittdittt/frontend-keuanganscb/blob/master/screenshoot/activity_diagram_submission.png)
 
 ### Entity Relationship Diagram
 
-![ERD](./public/erd_final.jpg)
+![ERD](https://github.com/ditdittdittt/frontend-keuanganscb/blob/master/screenshoot/public/erd_final.jpg)
 
 ## Fitur Umum
 
